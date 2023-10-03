@@ -4,7 +4,7 @@
 	justify-content:space-around;
 	flex-direction:column;
 }
-.header{
+header{
 	text-align:center;
 	background-color:black;
 	color:white;
@@ -19,5 +19,8 @@ img{
 	display:block;
 	width:40px;
 	hight:20px;
+}
+pictorial-news-section{
+	text-align:center;
 }
 	
