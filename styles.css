@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.holder{
+	display:flex;
+	justify-content:space-around;
+	flex-direction:column;
+}
+.header{
+	text-align:center;
+	background-color:black;
+	color:white;
+}
+.section{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
+img{
+	display:block;
+	width:40px;
+	hight:20px;
+}
+	
